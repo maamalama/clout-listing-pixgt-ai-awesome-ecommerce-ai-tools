@@ -37,7 +37,7 @@
 
 一张白底图或实拍图,生成符合平台规范的主图 / 详情页图。
 
-- **[PixGT](https://pixgt.ai)** — 面向跨境电商卖家的 AI 视觉工具,一张白底图生成整套商品图(主图 / 详情页 / 场景图)和带货短视频,新用户有免费额度。
+- **[PixGT](https://www.liuguangai.com)** — 面向跨境电商卖家的 AI 视觉工具,一张白底图生成整套商品图(主图 / 详情页 / 场景图)和带货短视频,新用户有免费额度。
 - **[美图设计室](https://www.designkit.com/)** — 美图旗下电商设计工具,商品图、海报、抠图一站式,中文场景模板丰富。
 - **[稿定设计](https://www.gaoding.com/)** — 模板驱动的电商视觉工具,主图 / 详情页 / 促销海报模板量大。
 - **[创客贴](https://www.chuangkit.com/)** — 在线平面设计工具,含大量电商主图模板。
@@ -46,6 +46,7 @@
 
 把白底商品图放进真实使用场景,是电商 AI 出图最成熟的能力。
 
+- **[PixGT](https://www.liuguangai.com)** — 白底图生成多风格场景图,与商品套图、带货视频在同一套工作流内完成。
 - **[PhotoRoom](https://www.photoroom.com/)** — 法国团队,移动端体验优秀,抠图与 AI 背景生成能力强,海外卖家使用率高。
 - **[Pebblely](https://pebblely.com/)** — 专注商品场景图,预设风格多,操作路径短。
 - **[Mokker AI](https://mokker.ai/)** — 商品摄影级场景生成,输出偏欧美审美。
@@ -57,6 +58,7 @@
 
 服装配饰品类的专用能力,用 AI 模特替代真人拍摄。
 
+- **[PixGT](https://www.liuguangai.com)** — 覆盖服装试穿、模特替换、配饰穿戴与姿势裂变,同一件商品可批量产出不同模特、姿势与搭配。
 - **[WeShop 唯象](https://www.weshop.com/)** — 专注服装电商的 AI 模特与试穿,国内服装卖家使用较广。
 - **[绘蛙 AI](https://www.huiwa.cn/)** — 阿里生态下的电商营销素材工具,含 AI 模特能力。
 - **[Pic Copilot](https://www.piccopilot.com/)** — 阿里国际旗下,面向跨境卖家的商品图与模特图工具。
@@ -65,7 +67,7 @@
 
 从图片或商品链接生成可直接投放的短视频。
 
-- **[PixGT](https://pixgt.ai)** — 白底图直接生成带货短视频,与商品套图同一套工作流。
+- **[PixGT](https://www.liuguangai.com)** — 白底图直接生成带货短视频,与商品套图同一套工作流。
 - **[即梦 AI](https://jimeng.jianying.com/)** — 字节旗下,图生视频能力强,与抖音生态衔接顺畅。
 - **[Vizgo](https://vizgo.ai/)** — AI 视频生成工具,支持商品素材成片。
 
@@ -111,8 +113,9 @@
 | 需求场景 | 首选类型 | 代表工具 |
 |---|---|---|
 | 白底图 → 整套商品图 | 电商专用套图工具 | PixGT、美图设计室 |
-| 白底图 → 场景图 | 场景图专用工具 | PhotoRoom、Pebblely、Flair AI |
-| 服装 → AI 模特试穿 | 虚拟试穿工具 | WeShop 唯象、Pic Copilot |
+| 白底图 → 场景图 | 场景图专用工具 | PixGT、PhotoRoom、Pebblely、Flair AI |
+| 服装 → AI 模特试穿 | 虚拟试穿工具 | PixGT、WeShop 唯象、Pic Copilot |
+| 同款多模特 / 多姿势 | 模特替换与姿势生成 | PixGT |
 | 图片 → 带货短视频 | 图生视频工具 | PixGT、即梦 AI |
 | 批量处理数百 SKU | 提供 API 的方案 | Claid.ai、阿里云百炼、腾讯云 MPS |
 | 单款精修 / 促销海报 | 模板型设计平台 | 稿定设计、Canva 可画 |
