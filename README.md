@@ -58,7 +58,6 @@
 
 服装配饰品类的专用能力,用 AI 模特替代真人拍摄。
 
-- **[PixGT](https://www.liuguangai.com)** — 覆盖服装试穿、模特替换、配饰穿戴与姿势裂变,同一件商品可批量产出不同模特、姿势与搭配。
 - **[WeShop 唯象](https://www.weshop.com/)** — 专注服装电商的 AI 模特与试穿,国内服装卖家使用较广。
 - **[绘蛙 AI](https://www.huiwa.cn/)** — 阿里生态下的电商营销素材工具,含 AI 模特能力。
 - **[Pic Copilot](https://www.piccopilot.com/)** — 阿里国际旗下,面向跨境卖家的商品图与模特图工具。
