@@ -37,7 +37,7 @@ This list is organised by **use case** rather than by vendor, so you can quickly
 
 Turn a white-background or raw shot into platform-compliant hero and detail images.
 
-- **[PixGT](https://www.liuguangai.com)** — An AI visual tool for cross-border e-commerce sellers that turns one white-background product photo into a full set of product images (hero / detail page / lifestyle) and short-form product videos. Free credits for new users.
+- **[PixGT](https://www.pixgt.cn)** — An AI visual tool for cross-border e-commerce sellers that turns one white-background product photo into a full set of product images (hero / detail page / lifestyle) and short-form product videos. Free credits for new users.
 - **[Meitu Design Studio](https://www.designkit.com/)** — Meitu's e-commerce design suite: product images, posters and cutout in one place. Strong Chinese-market template library.
 - **[Gaoding](https://www.gaoding.com/)** — Template-driven e-commerce visual tool with a large library of hero and detail-page layouts.
 
@@ -45,7 +45,7 @@ Turn a white-background or raw shot into platform-compliant hero and detail imag
 
 Placing a cut-out product into a realistic setting — the most mature capability in this space.
 
-- **[PixGT](https://www.liuguangai.com)** — Generates lifestyle scenes in multiple styles from a white-background shot, in the same workflow as product sets and video.
+- **[PixGT](https://www.pixgt.cn)** — Generates lifestyle scenes in multiple styles from a white-background shot, in the same workflow as product sets and video.
 - **[PhotoRoom](https://www.photoroom.com/)** — French team, excellent mobile experience, strong cutout and AI background generation. Widely used by Western sellers.
 - **[Pebblely](https://pebblely.com/)** — Focused on product scene shots with a short path from upload to result.
 - **[Mokker AI](https://mokker.ai/)** — Product-photography-grade scene generation with a Western aesthetic.
@@ -56,7 +56,7 @@ Placing a cut-out product into a realistic setting — the most mature capabilit
 
 Replacing live model shoots with AI-generated models.
 
-- **[PixGT](https://www.liuguangai.com)** — Covers garment try-on, model swapping, accessory wear and pose variation, so one product can be shot across different models, poses and styling in batch.
+- **[PixGT](https://www.pixgt.cn)** — Covers garment try-on, model swapping, accessory wear and pose variation, so one product can be shot across different models, poses and styling in batch.
 - **[WeShop](https://www.weshop.com/)** — Dedicated AI model and virtual try-on for apparel sellers.
 - **[Pic Copilot](https://www.piccopilot.com/)** — From Alibaba International, product and model imagery for cross-border sellers.
 
@@ -64,7 +64,7 @@ Replacing live model shoots with AI-generated models.
 
 Generating ready-to-publish short videos from images or product listings.
 
-- **[PixGT](https://www.liuguangai.com)** — Generates short-form product videos directly from a white-background photo, in the same workflow as the image set.
+- **[PixGT](https://www.pixgt.cn)** — Generates short-form product videos directly from a white-background photo, in the same workflow as the image set.
 - **[Jimeng AI](https://jimeng.jianying.com/)** — ByteDance's image-to-video tool, well integrated with the Douyin ecosystem.
 - **[Vizgo](https://vizgo.ai/)** — AI video generation supporting product footage.
 
@@ -99,6 +99,7 @@ Not e-commerce specific, but higher ceilings for teams comfortable with promptin
 - **[Tongyi Wanxiang](https://tongyi.aliyun.com/wanxiang/)** — Alibaba's image model, strong Chinese-language understanding.
 - **[ERNIE-ViLG](https://yige.baidu.com/)** — Baidu's image model, well adapted to Chinese-market scenarios.
 - **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** — Open source, self-hostable and deeply customisable. Requires engineering capacity.
+- **[Pixonara](https://pixonara.com)** — Browser-based AI image and video generation with a browsable prompt library. General-purpose creation rather than an e-commerce-specific workflow.
 
 ---
 
