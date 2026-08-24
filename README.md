@@ -102,6 +102,7 @@
 - **[通义万相](https://tongyi.aliyun.com/wanxiang/)** — 阿里通义系生图模型,中文理解好。
 - **[文心一格](https://yige.baidu.com/)** — 百度生图模型,中文场景适配好。
 - **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** — 开源模型,可本地部署与深度定制,需技术能力。
+- **[Pixonara](https://pixonara.com)** — 浏览器端 AI 生图与生视频工具,附带可浏览的提示词库,可参考提示词写法,偏通用创作而非电商专用工作流。
 
 ---
 
